@@ -71,7 +71,6 @@ Los diferentes resultados de aprendizaje (RA) trabajados junto con su peso aprox
 *[RA8]: Genera páginas Web dinámicas analizando y utilizando tecnologías del servidor Web que añadan código al lenguaje de marcas
 *[RA9]: Desarrolla aplicaciones Web híbridas seleccionando y utilizando librerías de código y repositorios heterogéneos de información
 
-
 ## Unidades de Trabajo
 A partir de los RA, hemos definido 8 unidades de trabajo (UT).
 
@@ -107,6 +106,107 @@ timeline
         UT 7: Programación de servicios web
         UT 8: Desarrollo de Aplicaciones Web híbridas
 ``` 
+
+
+## Criterios de Evaluación por Unidades de Trabajo
+
+Veamos los criterios de evaluación a aplicar para cada una de las unidades de trabajo (entre paréntesis, el RA al que corresponde y el orden que ocupa):
+
+### UT0. Presentación del módulo DWES
+
+- Se han identificado las características del módulo (no evaluable)
+- Se han identificado los contenidos del módulo (no evaluable)
+- Se ha reconocido la contribución del módulo a la consecución de los objetivos generales del ciclo (no evaluable)
+
+### UT 1: Introducción al Desarrollo de Aplicaciones Web
+
+- Se han caracterizado y diferenciado los modelos de ejecución de código en el servidor y en el cliente Web. (1a)
+- Se han reconocido las ventajas que proporciona la generación dinámica de páginas Web y sus diferencias con la inclusión de sentencias de guiones en el interior de las páginas Web. (1b)
+- Se han identificado los mecanismos de ejecución de código en los servidores Web. (1c)
+- Se han reconocido las funcionalidades que aportan los servidores de aplicaciones y su integración con los servidores Web. (1d)
+- Se han identificado y caracterizado los principales lenguajes y tecnologías relacionados con la programación Web en entorno servidor. (1e)
+- Se han verificado los mecanismos de integración de los lenguajes de marcas con los lenguajes de programación en entorno servidor. (1f)
+- Se han reconocido y evaluado las herramientas de programación en entorno servidor. (1g)
+
+### UT 2: Programación basada en lenguajes de script del lado del servidor. PHP
+
+- Se han reconocido los mecanismos de generación de páginas Web a partir de lenguajes de marcas con código embebido. (2a)
+- Se han identificado las principales tecnologías asociadas. (2b)
+- Se han utilizado etiquetas para la inclusión de código en el lenguaje de marcas. (2c)
+- Se ha reconocido la sintaxis del lenguaje de programación que se ha de utilizar. (2d)
+- Se han escrito sentencias simples y se han comprobado sus efectos en el documento resultante. (2e)
+- Se han utilizado directivas para modificar el comportamiento predeterminado. (2f)
+- Se han utilizado los distintos tipos de variables y operadores disponibles en el lenguaje. (2g)
+- Se han identificado los ámbitos de utilización de las variables.(2h)
+- Se han utilizado mecanismos de decisión en la creación de bloques de sentencias. (3a)
+- Se han utilizado bucles y se ha verificado su funcionamiento. (3b)
+- Se han utilizado “arrays” para almacenar y recuperar conjuntos de datos. (3c)
+- Se han creado y utilizado funciones. (3d)
+- Se han utilizado formularios web para interactuar con el usuario del navegador web. (3e)
+- Se han empleado métodos para recuperar la información introducida en el formulario. (3f)
+- Se han añadido comentarios al código.(3g)
+
+### UT 3: Acceso a bases de datos desde lenguajes de script de servidor
+
+- Se han analizado las tecnologías que permiten el acceso mediante programación a la información disponible en almacenes de datos. (6a)
+- Se han creado aplicaciones que establezcan conexiones con bases de datos. (6b)
+- Se ha recuperado información almacenada en bases de datos. (6c)
+- Se ha publicado en aplicaciones web la información recuperada. (6d)
+- Se han utilizado conjuntos de datos para almacenar la información. (6e)
+- Se han creado aplicaciones web que permitan la actualización y la eliminación de información disponible en una base de datos. (6f)
+- Se han utilizado transacciones para mantener la consistencia de la información. (6g)
+- Se han probado y documentado las aplicaciones. (6h)
+
+### UT 4: Desarrollo de Aplicaciones Web utilizando lenguajes de script de servidor
+
+- Se han identificado los mecanismos disponibles para el mantenimiento de la información que concierne a un cliente web concreto y se han señalado sus ventajas.(4a)
+- Se han utilizado sesiones para mantener el estado de las aplicaciones Web.(4b)
+- Se han utilizado “cookies” para almacenar información en el cliente Web y para recuperar su contenido.(4c)
+- Se han identificado y caracterizado los mecanismos disponibles para la autentificación de usuarios.(4d)
+- Se han escrito aplicaciones que integren mecanismos de autentificación de usuarios.(4e)
+- Se han realizado adaptaciones a aplicaciones Web existentes como gestores de contenidos u otras.(4f)
+- Se han utilizado herramientas y entornos para facilitar la programación, prueba y depuración del código.(4g)
+
+### UT 5: Generación dinámica de páginas web interactivas
+
+- Se han identificado las ventajas de separar la lógica de negocio de los aspectos de presentación de la aplicación. (5a)
+- Se han analizado tecnologías y mecanismos que permiten realizar esta separación y sus características principales. (5b)
+- Se han utilizado objetos y controles en el servidor para generar el aspecto visual de la aplicación web en el cliente. (5c)
+- Se han utilizado formularios generados de forma dinámica para responder a los eventos de la aplicación Web. (5d)
+- Se han identificado y aplicado los parámetros relativos a la configuración de la aplicación Web. (5e)
+- Se han escrito aplicaciones Web con mantenimiento de estado y separación de la lógica de negocio. (5f)
+- Se han aplicado los principios de la programación orientada a objetos. (5g)
+- Se ha probado y documentado el código.(5h)
+
+### UT 6: Desarrollo de Aplicaciones Web empleando un framework
+
+- Se han identificado las diferencias entre la ejecución de código en el servidor y en el cliente Web. (8a)
+- Se han reconocido las ventajas de unir ambas tecnologías en el proceso de desarrollo de programas. (8b)
+- Se han identificado las librerías y las tecnologías relacionadas con la generación por parte del servidor de páginas Web con guiones embebidos. (8c)
+- Se han utilizado estas tecnologías para generar páginas Web que incluyan interacción con el usuario en forma de advertencias y peticiones de confirmación. (8d)
+- Se han utilizado estas tecnologías, para generar páginas Web que incluyan verificación de formularios. (8e)
+- Se han utilizado estas tecnologías para generar páginas web que incluyan modificación dinámica de su contenido y su estructura. (8f)
+- Se han aplicado estas tecnologías en la programación de aplicaciones Web. (8g)
+
+### UT 7: Programación de servicios web
+
+- Se han reconocido las características propias y el ámbito de aplicación de los servicios Web.(7a)
+- Se han reconocido las ventajas de utilizar servicios Web para proporcionar acceso a funcionalidades incorporadas a la lógica de negocio de una aplicación. (7b)
+- Se han identificado las tecnologías y los protocolos implicados en la publicación y utilización de servicios Web. (7c)
+- Se ha programado un servicio Web. (7d)
+- Se ha creado el documento de descripción del servicio Web. (7e)
+- Se ha verificado el funcionamiento del servicio Web. (7f)
+- Se ha consumido el servicio Web. (7g)
+
+### UT 8: Desarrollo de Aplicaciones Web híbridas
+
+- Se han reconocido las ventajas que proporciona la reutilización de código y el aprovechamiento de información ya existente. (9a)
+- Se han identificado librerías de código y tecnologías aplicables en la creación de aplicaciones web híbridas. (9b)
+- Se ha creado una aplicación web que recupere y procese repositorios de información ya existentes. (9c)
+- Se han creado repositorios específicos a partir de información existente en Internet y en almacenes de información. (9d)
+- Se han utilizado librerías de código para incorporar funcionalidades específicas a una aplicación web. (9e)
+- Se han programado servicios y aplicaciones web utilizando como base información y código generados por terceros. (9f)
+- Se han probado, depurado y documentado las aplicaciones generadas. (9g)
 
 ## Evaluación de los aprendizajes
 
