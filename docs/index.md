@@ -224,10 +224,6 @@ Cualquier contenido desarrollado en unidades anteriores, será de necesario cono
 ==}
 ## Calificación
 
-Para superar el módulo, la media resultante de la valoración de cada uno de los RA deberá ser igual o superior a 5. De no ser así, deberán recuperarse aquellos RA que han obtenido una calificación inferior a 5 como producto de las valoraciones y la evolución obtenida en las calificaciones asociadas a sus CE.
-
-La calificación del módulo será la suma de las notas ponderadas de cada uno de los Resultados de Aprendizaje (RA) superados. Se podrá calcular la media de un módulo cuando haya un RA pendiente de superar, siempre que este RA pendiente de superar no influya críticamente en la globalidad de las competencias del ciclo. Esto no será aplicable en el caso de pérdida del derecho a la evaluación continua.
-
 ### Criterios de Calificación de las Evaluaciones
 
 Para cada trimestre (evaluación) se determinará una calificación por alumno. Esta calificación será un número (entre 1 y 10) sin decimales. Esta calificación se calculará (para cada alumno) en base a la calificación de los criterios de evaluación incluidos en dicho trimestre, aplicando los instrumentos de evaluación especificados en esta programación. Esta nota no puede tener decimales, y se obtendrá por redondeo al entero más cercano de la nota de evaluación. Estará comprendida entre 1 y 10. Las notas de los instrumentos de evaluación serán establecidos directamente por el profesor.
