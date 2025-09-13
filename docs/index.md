@@ -215,7 +215,7 @@ El desarrollo del módulo transcurre a lo largo de dos trimestres (o evaluacione
 - Test al finalizar cada unidad, o determinados apartados de algunas unidades, que podrán incluir preguntas teóricas y prácticas.
 
 - Exámenes de tipo práctico, con ordenador, y con material de ayuda si se considera necesario, al acabar cada unidad o determinados apartados de algunas unidades. Los exámenes deberán realizarse de forma obligatoria por todos los alumnos. La forma, duración y especificaciones de cada examen serán establecidos por el profesor. Cada examen se calificará de 0 a 10 puntos. No respetar las especificaciones del examen conlleva una calificación igual a 0 puntos. La no realización conlleva una calificación igual a 0 puntos.
-- Exámenes de evaluación, que podrán incluir preguntas tipo test teóricas y prácticas y ejercicios de tipo práctico. Se realizarán al menos una vez por evaluación, cuando el profesor lo estime conveniente, toda la materia impartida durante la evaluación. Los alumnos lo deberán realizar de forma individual. Estos exámenes obligatorios podrán ser teóricos y/o prácticos, y abarcarán los contenidos de todas las unidades desarrolladas en la evaluación. La forma, duración y especificaciones de cada examen serán establecidos por el profesor. El examen completo se calificará de 0 a 10. No respetar las especificaciones del examen conlleva una calificación igual a 0 puntos. La no realización conlleva una calificación igual a 0 puntos. 
+- Exámenes de evaluación, que podrán incluir preguntas tipo test teóricas y prácticas y ejercicios de tipo práctico. Se realizarán al menos una vez por evaluación, cuando el profesor lo estime conveniente. Los alumnos lo deberán realizar de forma individual. Estos exámenes obligatorios podrán ser teóricos y/o prácticos, y abarcarán los contenidos de todas las unidades desarrolladas en la evaluación. La forma, duración y especificaciones de cada examen serán establecidos por el profesor. El examen completo se calificará de 0 a 10. No respetar las especificaciones del examen conlleva una calificación igual a 0 puntos. La no realización conlleva una calificación igual a 0 puntos. 
 
 {==
 
@@ -242,7 +242,7 @@ Un alumno que tenga el módulo aprobado no podrá realizar exámenes de las conv
 
 {==
 
-Aquellos alumnos que pierdan el derecho a la evaluación continua, podrán realizar un examen final. En este examen final, los alumnos que no han perdido el derecho a la evaluación continua, podrán recuperar aquellos RA pendientes de superar.
+Aquellos alumnos que pierdan el derecho a la evaluación continua, podrán realizar un examen final. En este examen final, los alumnos que no han perdido el derecho a la evaluación continua, podrán recuperar aquellas evaluaciones pendientes de superar.
 
 ==}
 
